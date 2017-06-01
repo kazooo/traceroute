@@ -3,7 +3,7 @@
 trace - program, ktery umozni zobrazit pruchod paketu siti od zdroje k cili.
 
 ## **SYNOPSIS** ##
-**trace** [**-f** *first_ttl*] [**-m** *max_ttl*] <ip-adress>
+**trace** [**-f** *first_ttl*] [**-m** *max_ttl*] ip-addres
 
 ## **DESCRIPTION** ##
 Program umozni zobrazit pruchod paketu siti od zdroje k cili. K objeveni jednotlivych smerovacu,
@@ -16,7 +16,7 @@ Pro zaslani testovaci zpravy s ruzne nastavenym TTL/HL vyuziva se protokol UDP.
 
 **-m** *max_ttl* - parametr specifikuje maximalni TTL. Implicitne 30.
 
-**<ip-adress>** - IPv4/IPv6 adresa cile
+**ip-addres** - IPv4/IPv6 adresa cile
 
 ## **AUTHOR** ##
 Ermak Aleksei
