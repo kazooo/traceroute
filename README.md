@@ -20,4 +20,4 @@ Pro zaslani testovaci zpravy s ruzne nastavenym TTL/HL vyuziva se protokol UDP.
 
 ## **AUTHOR** ##
 Ermak Aleksei
-https://github.com/xermak00/traceroute/blob/master/traceroute.cpp#L214
+[https://github.com/xermak00/traceroute/blob/master/traceroute.cpp#L214]
